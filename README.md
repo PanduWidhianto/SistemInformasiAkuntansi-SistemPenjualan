@@ -56,10 +56,8 @@ Setelah itu jalankan perintah berikut.
 `$ php artisan db:seed` <br>
 `$ php artisan storage:link`
 
-Agar fitur cek ongkir berjalan lancar, masukan key api rajaongkir, di dalam file .env
-<p align="center">
-<a href="https://ibb.co/LzX89PH"><img src="https://i.ibb.co/0jRcYXv/rajaongkir.png" alt="rajaongkir" border="0"></a>
-</p>
+## Flowchart
+![Flowchart Pandu](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/969bb75c-eaaa-4274-b4e5-490949072ecc)
 
 
 ## Menjalankan
