@@ -31,9 +31,7 @@
 ## Contoh Laman
 
  <p align="center">
-![WhatsApp Image 2023-12-14 at 01 01 13_21a5cbd1](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/7a023ede-8ec3-4ffe-a09a-dd1e0ade3f65)
-![WhatsApp Image 2023-12-14 at 01 01 10_3fd58025](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/7a4a6b70-a5da-4b88-87dc-94ae2413a56c)
-
+ ![Laman](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/e74f5d50-550d-4190-aed2-c6ae29402a36)
 
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
