@@ -31,8 +31,6 @@
 ## Contoh Laman
 
  <p align="center">
- ![Laman](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/e74f5d50-550d-4190-aed2-c6ae29402a36)
-
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
 <br><br>
