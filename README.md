@@ -13,12 +13,10 @@
 - Role = Pemilik, Administrator, Anggota
 - Cocok untuk pemilik usaha reseller
 - Untuk Menambahkan anggota ke dalam kelompok/tim/perusahaan, menggunakan token invite link, seperti invite group whatsapp.
--dan masih terdapat beberapa fitur lainya.
 
 ## Kekurangan
 
 - masih banyak kekurangan.
-- Masih dalam tahap pengembangan, dan entah kapan mau dilanjut.
 
 
 
