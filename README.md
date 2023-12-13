@@ -31,7 +31,9 @@
 ## Contoh Laman
 
  <p align="center">
-<a href="https://ibb.co/Gp9q8s9"><img src="https://i.ibb.co/sRCZN5C/keranjang.png" alt="keranjang" border="0"></a>
+![WhatsApp Image 2023-12-14 at 01 01 13_21a5cbd1](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/7a023ede-8ec3-4ffe-a09a-dd1e0ade3f65)
+
+
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
 <br><br>
