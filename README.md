@@ -32,6 +32,7 @@
 
  <p align="center">
 ![WhatsApp Image 2023-12-14 at 01 01 13_21a5cbd1](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/7a023ede-8ec3-4ffe-a09a-dd1e0ade3f65)
+![WhatsApp Image 2023-12-14 at 01 01 10_3fd58025](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/7a4a6b70-a5da-4b88-87dc-94ae2413a56c)
 
 
 <br><br>
