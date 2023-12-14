@@ -18,6 +18,9 @@
 
 - masih banyak kekurangan.
 
+## Desain PhpMyAdmin
+
+![WhatsApp Image 2023-12-14 at 12 10 07](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/76947c36-1e12-4d20-842c-cf3625e941d0)
 
 
 ## Framework
@@ -29,10 +32,25 @@
 ## Contoh Laman
 
  <p align="center">
-<br><br>
-<a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
-<br><br>
-<a href="https://ibb.co/JdWcT7Z"><img src="https://i.ibb.co/z5WmgRd/kas.png" alt="kas" border="0"></a>
+
+![WhatsApp Image 2023-12-14 at 12 10 03 - Copy](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/103b288c-7f81-420c-a22b-6b6a6df1f719)
+
+![WhatsApp Image 2023-12-14 at 12 10 06 (1)](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/fdaefdcf-6c17-438f-841b-a6602a2e5757)
+
+![WhatsApp Image 2023-12-14 at 12 10 06](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/deb51e33-02c5-4e35-b0f8-0801d9f31336)
+
+![WhatsApp Image 2023-12-14 at 12 10 05 (1)](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/34228fde-8f07-47fa-a46a-3f36e2e88ba9)
+
+![WhatsApp Image 2023-12-14 at 12 10 05](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/3f08ada9-742b-4490-b08f-81ff883562cc)
+
+![WhatsApp Image 2023-12-14 at 12 10 04 (2)](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/9c588608-e0b5-490d-ae9e-774a9832e43c)
+
+![WhatsApp Image 2023-12-14 at 12 10 04 (1)](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/e9c04ec1-e766-4af2-911a-3e361bcc44f5)
+
+![WhatsApp Image 2023-12-14 at 12 10 04](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/a4d14054-5539-47b9-8b24-7c7e9f6e2af3)
+
+![WhatsApp Image 2023-12-14 at 12 10 03](https://github.com/PanduWidhianto/SistemInformasiAkuntansi-SistemPenjualan/assets/152130454/5b9ff9c8-f85a-4de4-b992-17786c1baa81)
+
 
 </p>
 
